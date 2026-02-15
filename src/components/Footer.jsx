@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="d-flex align-items-center justify-content-center pb-5">
           <div className="col-md-6">
             <p className="mb-3 mb-md-0">Made with ❤️ by {" "}
-              <a className="text-decoration-underline text-dark fs-5" >Muskan Gill (I did used some help)</a>
+              <span className="text-decoration-underline text-dark fs-5" >Muskan Gill (I did used some help)</span>
             </p>
             <a className="text-dark fs-4" href="https://github.com/muskangillpvt" target="_blank" rel="noreferrer">
               <i className="fa fa-github"></i>
