@@ -271,7 +271,7 @@ const Checkout = () => {
                       className="w-100 btn btn-primary "
                       type="submit" disabled
                     >
-                      Continue to checkout
+                      Continue to checkout (This won't work as this app is only frontend based)
                     </button>
                   </form>
                 </div>
